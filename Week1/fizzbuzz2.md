@@ -1,0 +1,1 @@
+-[fizzbuzz2(colab)](https://colab.research.google.com/drive/121Dzi4YBHASKHPTRt9unHWFyP-pmRlAs?usp=sharing)
